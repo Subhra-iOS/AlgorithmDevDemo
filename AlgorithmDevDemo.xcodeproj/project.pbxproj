@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A8CCB8823420E4D0034FC18 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A8CCB8723420E4D0034FC18 /* ViewController.xib */; };
 		2AE65FCD233E199B00A802E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE65FCC233E199B00A802E6 /* AppDelegate.swift */; };
 		2AE65FCF233E199B00A802E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE65FCE233E199B00A802E6 /* SceneDelegate.swift */; };
 		2AE65FD1233E199B00A802E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE65FD0233E199B00A802E6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A8CCB8723420E4D0034FC18 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 		2AE65FC9233E199B00A802E6 /* AlgorithmDevDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlgorithmDevDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AE65FCC233E199B00A802E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AE65FCE233E199B00A802E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				2AE65FCC233E199B00A802E6 /* AppDelegate.swift */,
 				2AE65FCE233E199B00A802E6 /* SceneDelegate.swift */,
 				2AE65FD0233E199B00A802E6 /* ViewController.swift */,
+				2A8CCB8723420E4D0034FC18 /* ViewController.xib */,
 				2AE65FD2233E199B00A802E6 /* Main.storyboard */,
 				2AE65FD5233E199C00A802E6 /* Assets.xcassets */,
 				2AE65FD7233E199C00A802E6 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				2AE65FD9233E199C00A802E6 /* LaunchScreen.storyboard in Resources */,
 				2AE65FD6233E199C00A802E6 /* Assets.xcassets in Resources */,
+				2A8CCB8823420E4D0034FC18 /* ViewController.xib in Resources */,
 				2AE65FD4233E199B00A802E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
