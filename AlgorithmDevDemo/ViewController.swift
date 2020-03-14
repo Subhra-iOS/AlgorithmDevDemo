@@ -10,9 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var  myName : String? = "Subhra"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        if let name : String? = self.myName{
+            print("\(name)")
+            name = "Roy"
+        }
+        
     }
 
 
